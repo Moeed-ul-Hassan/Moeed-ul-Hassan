@@ -1,83 +1,72 @@
-# Road to Big Tech – Moeed Mirza's Web Engineering Journey
+<h1 align="center">
+  Moeed Mirza — Digital Architect of Ideas  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
+</h1>
 
-**Assalamualaikum!**  
-I’m Moeed Mirza — a web engineer and Python developer from Gujrat, Pakistan.  
-My goal is to land a Software Engineer role at a top-tier tech company like **Microsoft**, **Google**, or **Meta**, InshaAllah.
-
-This repo tracks my learning path, skills, and projects as I grow towards that goal.
-
----
-
-## My Tech Stack
-
-### **Frontend**
-- HTML, CSS, TailwindCSS, JavaScript
-- React, Next.js
-- UI/UX design principles & responsive layouts
-
-### **Backend**
-- Python (FastAPI, Django)
-- Node.js (Express.js)
-- REST APIs, Authentication, Middleware
-
-### **Database & DevOps**
-- MongoDB, PostgreSQL
-- Firebase Realtime + Firestore
-- GitHub Actions, Docker (basics), CI/CD pipelines
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA1&vCenter=true&width=450&lines=Building+Clean+UIs+%26+Dashboards;Shopify+Expert+%7C+Web+Strategist;Founder+of+Zylox+Agency;Freelancer+with+Flow" />
+</p>
 
 ---
 
-## Strategy for Big Tech Job
-
-### 1. **Build Real-World Projects**
-- Scalable, production-level applications
-- API-first designs, integration-ready systems
-- Add projects with clean code, README, and live demos
-
-### 2. **Master Backend System Design**
-- Focus on web architecture, microservices, and async systems
-- Learn caching, queues (e.g. Redis), file storage, and logging
-
-### 3. **Open Source Contributions**
-- Contribute to Python or web-based projects
-- Document everything in GitHub properly
-
-### 4. **Networking & Branding**
-- Connect with recruiters and engineers on LinkedIn
-- Post project demos and technical insights on TikTok & YouTube
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200" /><br/>
+  <b>"Design like a poet. Code like a warrior."</b>
+</p>
 
 ---
 
-## Featured Projects
+### 🧾 Who Am I?
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| Task Buddy | React + Firebase | A platform for hiring local service providers |
-| Food Rescue Network | MERN | System to reduce food waste via smart redistribution |
-| PriceGenie | Flutter + Python API | Shopping assistant powered by ML logic |
-| Portfolio Website | Next.js + Tailwind | Animated personal site with project gallery |
+- Founder of **Zylox** — Web Wizards of Gujrat  
+- Turning client ideas into scalable **Shopify + WordPress stores**  
+- Building modern **Dashboards, Systems, and Portfolios**  
+- Speak code, dream design, and sip on chai while debugging
 
 ---
 
-## Goals
+### 💼 Currently Working On:
 
-- Land a Web or Backend Engineer role at **Microsoft, Google, or Meta** by **2026**
-- Master Python web dev at scale
-- Build 10+ open-source or real-world apps
-
----
-
-**"Success is not magic, it’s istiqamah."**  
-May Allah make this journey beneficial and successful. Ameen.
+- **Skill Compass** – Career tool for Gen-Z minds  
+- **Task Buddy** – Pakistan’s service-on-demand app  
+- **Food Rescue** – Tech with sadaqah vision  
+- **Zylox Portfolio** – Big reveal coming soon!
 
 ---
 
-## Let's Connect
+### ⚡ Tech Stack & Superpowers
 
-- **TikTok:** [Syntax by Moeed](https://www.tiktok.com/@syntax_by_moeed)  
-- **LinkedIn:** [Moeed Mirza](https://www.linkedin.com/in/moeedmirza)  
-- **Email:** moeedulhassandev@gmail.com  
+<img src="https://skillicons.dev/icons?i=js,react,php,laravel,shopify,wordpress,python,html,css,bootstrap,tailwind" />
+
+> I also tame Figma and Postman like a pro.
 
 ---
 
-**License:** MIT
+### 📊 GitHub Vibe Check
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moeed-ul-Hassan&show_icons=true&theme=radical&hide=prs" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moeed-ul-Hassan&theme=radical" width="47%">
+</p>
+
+---
+
+### 🚀 Let’s Collaborate
+
+- **Need a web project done fast + clean?**  
+- **Want your Shopify store to actually convert?**  
+- **Looking for a dev who understands both code *and* clients?**
+
+> Visit My Portfolio: [**Moeed-ul-Hassan.github.io/Moeed-Mirza-Official](https://moeed-ul-hassan.github.io/Moeed-Mirza-Official-)  
+> DM on [LinkedIn](https://linkedin.com/in/moeed-mirza-gujrat) | Follow [TikTok](https://tiktok.com/@syntaxbyMoeed)
+
+---
+
+### ✨ Signature Quote:
+
+```js
+while(alive) {
+  code();
+  learn();
+  do_it_with_ikhlas();
+}
