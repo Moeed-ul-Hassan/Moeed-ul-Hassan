@@ -57,8 +57,8 @@
 - **Want your Shopify store to actually convert?**  
 - **Looking for a dev who understands both code *and* clients?**
 
-> Visit My Portfolio: [**Moeed-ul-Hassan.github.io/Moeed-Mirza-Official](https://moeed-ul-hassan.github.io/Moeed-Mirza-Official-)  
-> DM on [LinkedIn](https://linkedin.com/in/moeed-mirza-gujrat) | Follow [TikTok](https://tiktok.com/@syntaxbyMoeed)
+> Visit My Portfolio: [**Moeed-ul-Hassan.github.io/Moeed-Mirza-Official](https://moeed-ul-hassan.github.io/Moeed-Mirza-Official)  
+> DM on [LinkedIn](https://linkedin.com/in/moeed-mirza-gujrat) | Follow [TikTok](https://tiktok.com/@syntaxbymoeed)
 
 ---
 
