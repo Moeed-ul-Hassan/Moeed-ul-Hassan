@@ -1,35 +1,72 @@
-<!-- Moeed ul Hassan | The Legend | Animated & Professional GitHub Profile -->
+---
 
-<h1 align="center" style="font-size: 2.5em;">
-  <span style="color:#00ffa1; animation: glow 2s ease-in-out infinite alternate;">Moeed ul Hassan</span><br/>
-  <span style="font-size: 0.8em; color: #999;">The Legend — Python Web App Developer</span>
+<h1 align="center">
+  Moeed ul Hassan — The Legend
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA1&vCenter=true&width=500&lines=Backend+Engineer+with+Barakah;Self+Employed+%7C+Creative+Thinker;Secure+Systems+%7C+AI+Tools+%7C+Flask+Dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA1&vCenter=true&width=500&lines=Self-Employed+Python+Backend+Developer;Crafting+AI+Apps+%7C+Smart+Dashboards+%7C+Secure+Systems" />
 </p>
 
 ---
 
 ### 🧾 About Me
 
-- I'm **Moeed ul Hassan**, better known as *The Legend* — Backend Web App Developer from Gujrat, Pakistan  
-- Focused on building secure, AI-powered, scalable apps with a modern backend mindset  
-- Fully **Self-Employed** — Working on ideas that are purposeful, sharp, and user-first  
-- Specialize in **Flask**, **FastAPI**, automation tools, and **PostgreSQL/SQLite**  
-- I code with clarity, plan with strategy, and deploy with **ikhlas** (sincerity)
+* I'm **Moeed ul Hassan**, known as *The Legend* — a Python Web App Developer from Gujrat, Pakistan
+* Passionate about backend engineering, smart dashboards, and clean, scalable systems
+* **Self-Employed** and building tech solutions with purpose and power
+* Currently mastering Python, Flask, FastAPI, and automation workflows
+* Code with clarity, design with empathy, and always build with **ikhlas** (sincerity)
 
-> 💬 *"You were not born to stay small. Break the loop, build the future."*
+> "You were not born to stay small. Break the loop, build the future."
 
 ---
 
-### 💼 Current Projects
+### 💼 What I'm Working On
 
-- 🦅 **Mail Hawk** – AI-based inbox protector & productivity tool  
-- 🥘 **Food Rescue Network** – Tech with a sadaqah mission  
-- 🧠 **Skill Compass** – Career direction for Gen-Z  
-- 🛑 **Addictions Blocker** – Stop unhealthy digital habits  
+* **Inbox Shield** – AI-powered smart email firewall (Gmail + AI)
+* **Mail Hawk** – My flagship project for AI inbox security
+* **Food Rescue Network** – Tech-powered sadaqah initiative
+* **Skill Compass** – Career direction tool for Gen-Z
+* **Addictions Blocker** – Personal project to fight digital addiction with tech
+---
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,html,css,bootstrap,tailwind,git,postgresql,sqlite" />
+
+> I work comfortably with APIs, Flask/FastAPI, Gmail OAuth, SQL systems.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moeed-ul-Hassan&show_icons=true&theme=radical&hide=prs" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moeed-ul-Hassan&theme=radical" width="47%">
+</p>
+
+---
+
+### 🚀 Let's Connect
+
+* Have a backend idea that needs power & polish?
+* Want to secure your product with AI-driven features?
+* Need a system built with speed, design, and care?
+
+> 🌐 Portfolio: **[leafbloom.online](https://leafbloom.online)**
+> 💼 LinkedIn: **[linkedin.com/in/moeed-ul-hassan](https://linkedin.com/in/moeed-ul-hassan)**
+
+---
+
+### ✨ Signature Quote
+
+```js
+while (alive) {
+  code();
+  learn();
+  do_it_with_ikhlas();
+}
+```
