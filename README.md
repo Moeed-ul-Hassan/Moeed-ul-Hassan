@@ -3,7 +3,6 @@
   <br/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
 </h1>
-![Mission: Simplify Healthcare with Tech](https://img.shields.io/badge/Mission-Simplify%20Healthcare%20with%20Tech-00FFA1?style=flat-square)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFA1&vCenter=true&width=500&lines=Python+Backend+Developer+%7C+Health+Tech+Builder;+AI+Apps+%7C+Help+Health%7C+tech+Systems" />
