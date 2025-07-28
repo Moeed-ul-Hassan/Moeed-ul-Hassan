@@ -62,8 +62,5 @@
 ### ✨ Signature Quote
 
 ```js
-while (alive) {
-  code();
-  learn();
-  do_it_with_ikhlas();
-}
+I just want to build things that heal, not just work.
+
