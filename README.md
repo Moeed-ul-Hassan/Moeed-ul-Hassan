@@ -35,7 +35,7 @@
 
 ### ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,html,css,bootstrap,tailwind,git,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,html,css,bootstrap,git,azure,gcp,sqlite" />
 
 > I work comfortably with APIs, Flask/FastAPI, Gmail OAuth, SQL systems.
 
