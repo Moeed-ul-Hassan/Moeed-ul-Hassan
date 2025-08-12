@@ -14,9 +14,9 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=moeedulhassan&style=flat-square&color=00D4FF&label=PROFILE+VIEWS)
-  ![GitHub Followers](https://img.shields.io/github/followers/moeedulhassan?style=flat-square&color=00D4FF&label=FOLLOWERS)
-  ![GitHub Stars](https://img.shields.io/github/stars/moeedulhassan?style=flat-square&color=00D4FF&label=STARS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Moeed-ul-Hassan&style=flat-square&color=00D4FF&label=PROFILE+VIEWS)
+  ![GitHub Followers](https://img.shields.io/github/followers/Moeed-ul-Hassan?style=flat-square&color=00D4FF&label=FOLLOWERS)
+  ![GitHub Stars](https://img.shields.io/github/stars/Moeed-ul-Hassan?style=flat-square&color=00D4FF&label=STARS)
   ![Location](https://img.shields.io/badge/Location-Gujrat%2C+Pakistan-00D4FF?style=flat-square&logo=location&logoColor=white)
   
 </div>
@@ -132,20 +132,7 @@
 ### **Frontend & Full-Stack**
 ![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-Expert-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_AI-Expert-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Expert-FF6B6B?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Expert-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -203,11 +190,11 @@ graph TB
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moeedulhassan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=00D4FF&icon_color=00D4FF&title_color=00D4FF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moeed-ul-Hassan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=00D4FF&icon_color=00D4FF&title_color=00D4FF)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeedulhassan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=00D4FF&title_color=00D4FF)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeed-ul-Hassan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=00D4FF&title_color=00D4FF)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moeedulhassan&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00FF88&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=00D4FF)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moeed-ul-Hassan&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00FF88&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=00D4FF)
   
 </div>
 
@@ -325,7 +312,7 @@ graph TB
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=13000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Ready+to+Solve+Real-World+Problems;Let%27s+Build+the+Future+Together" alt="Typing SVG" />
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=moeedulhassan&style=flat-square&color=00D4FF&label=VISITORS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Moeed-ul-Hassan&style=flat-square&color=00D4FF&label=VISITORS)
   
 </div>
 
