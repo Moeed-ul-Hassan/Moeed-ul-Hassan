@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on "Production-ready Ecom API"<br>I am looking to collaborate on Open Source API and Fintech Projects<br>I am currently mastering GoLang,<br>Ask me about my Career and Problem-solving Patterns and programming techniques<br>Fun Fact: Most of the people choose programming as a profession, but I choose Programming as a hobby. As I like doing diffcult task from my childhood,<br>
+I am currently working on "Production-ready Ecom API"<br>I am looking to collaborate on Open Source API and Fintech Projects<br>I am currently mastering GoLang,<br> You canh Ask me about my Career and Problem-solving Patterns and programming Techniques<br>A Fun Fact: Most of the people choose programming as a profession, but I chose programming as a hobby. As I like doing diffcult task from my childhood,<br>
 
 
 ## 🌐 Socials:
