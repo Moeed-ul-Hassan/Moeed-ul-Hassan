@@ -1,4 +1,4 @@
-I am a backend developer specializing in high-concurrency systems and mastering Go through projects UberCloneGo. Programming is a lifelong hobby for me, driven by a childhood passion for solving difficult technical challenges. I am currently looking to collaborate on open-source APIs and applications designed for high traffic.
+I am a backend developer specializing in **high-concurrency systems** and mastering Go through **projects UberCloneGo**. Programming is a lifelong hobby for me, driven by a childhood passion for solving difficult technical challenges. I am currently looking to collaborate on open-source APIs and applications designed for high traffic.
 
 
 ## 🌐 Socials:
