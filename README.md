@@ -1,5 +1,8 @@
-# 💫 About Me:
-I am currently working on "UberCloneGo"<br>I am looking to collaborate on Open Source API and High Traffic Apps Projects<br>I am currently mastering GoLang,<br> You can Ask me about my Career and Problem-solving Patterns and programming Techniques What Pattern do I use?<br>A Fun Fact: Most of the people choose programming as a profession, but I chose programming as a hobby. As I like doing diffcult task since my childhood<br>
+#You said
+more short about 2-3 lines
+
+Gemini said
+I am a backend developer specializing in high-concurrency systems and mastering Go through projects UberCloneGo. Programming is a lifelong hobby for me, driven by a childhood passion for solving difficult technical challenges. I am currently looking to collaborate on open-source APIs and applications designed for high traffic.
 
 
 ## 🌐 Socials:
